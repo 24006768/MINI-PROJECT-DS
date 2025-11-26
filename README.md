@@ -15,3 +15,4 @@ To analyze the sales dataset using data visualization and statistical methods in
 
 # RESULT:
 
+The analysis provided clear insights into sales performance, revealed key trends, and supported data-driven business decisions.
